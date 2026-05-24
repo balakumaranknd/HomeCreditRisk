@@ -6,4 +6,5 @@ data/*.csv
 models/*.joblib
 models/*.pkl
 data/
-
+ChatGPT_Start.md
+ChatGPT_End.md
